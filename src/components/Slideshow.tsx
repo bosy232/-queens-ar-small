@@ -1,5 +1,8 @@
 import { useState, useEffect, type FC } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { useLanguage } from '../contexts/LanguageContext';
+import { useTranslation } from '../translations';
+
 
 const slides = [
   {
