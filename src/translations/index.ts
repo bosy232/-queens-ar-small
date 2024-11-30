@@ -17,6 +17,22 @@ const translations = {
       bookAppointment: 'Book Appointment',
       ourServices: 'Our Services'
     },
+    slides:
+      {
+        image: "https://lh3.googleusercontent.com/p/AF1QipMeUpZnC-EK8Zc8lWPYG8kb7QyOJLuGIcM6JKew=s1360-w1360-h1020",
+        title: "Advanced Medical Care",
+        description: "State-of-the-art facilities and expert healthcare professionals"
+      },
+      {
+        image: "https://lh3.googleusercontent.com/p/AF1QipP8Wrz731hVn25mC0uTZIOvtYHrE9_q9wY5xJD9=s1360-w1360-h1020",
+        title: "Compassionate Staff",
+        description: "Dedicated team committed to your well-being"
+      },
+      {
+        image: "https://lh3.googleusercontent.com/p/AF1QipOEuac9sFH-UwJAxSAFEgboahdZd4DSCWy04NX5=s1360-w1360-h1020",
+        title: "Modern Technology",
+        description: "Latest medical technology for precise diagnostics and treatment"
+      },
     features: {
       title: 'Why Choose Us',
       emergency: {
@@ -166,6 +182,22 @@ const translations = {
       bookAppointment: 'احجز موعد',
       ourServices: 'خدماتنا'
     },
+    slides:
+      {
+        image: "https://lh3.googleusercontent.com/p/AF1QipMeUpZnC-EK8Zc8lWPYG8kb7QyOJLuGIcM6JKew=s1360-w1360-h1020",
+        title: "رعاية طبية متقدمة",
+        description: "مرافق حديثة للغاية وأخصائيون في الرعاية الصحية"
+      },
+      {
+        image: "https://lh3.googleusercontent.com/p/AF1QipP8Wrz731hVn25mC0uTZIOvtYHrE9_q9wY5xJD9=s1360-w1360-h1020",
+        title: "فريق متعاطف",
+        description: "فريق مخصص ملتزم برفاهيتك"
+      },
+      {
+        image: "https://lh3.googleusercontent.com/p/AF1QipOEuac9sFH-UwJAxSAFEgboahdZd4DSCWy04NX5=s1360-w1360-h1020",
+        title: "تقنية حديثة",
+        description: "أحدث التكنولوجيا الطبية للتشخيص الدقيق والعلاج"
+      },
     features: {
       title: 'لماذا تختارنا',
       emergency: {
